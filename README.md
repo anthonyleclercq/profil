@@ -1,6 +1,8 @@
 # profil
-Voici mon site web où l'on peux voir mon profil (CV, expèrience, projet, compétence, ...)
+Voici mon site web où l'on peux voir mon profil
 
 <br>
-
-test
+# 	- CV
+# 	- Expèriencce
+#	- Projet
+#	- Compétence
